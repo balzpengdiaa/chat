@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "ajv": "^8.17.1",
+    "@chakra-ui/avatar": "^2.3.0",
+"@chakra-ui/tooltip": "^2.3.1",
     "@chakra-ui/react": "^2.7.1",
     "@emoji-mart/data": "^1.1.2",
     "@emoji-mart/react": "^1.1.1",
