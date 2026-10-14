@@ -1,8 +1,8 @@
 # MongoDB Atlas connection string
-URL=mongodb+srv://USER:PASS@cluster.mongodb.net/chat
+URL=mongodb+srv://<db_username>:<db_password>@cluster0.dbur4kq.mongodb.net/?appName=Cluster0
 # string acak panjang untuk JWT & hash OTP
 SECRET=ganti-dengan-string-acak-panjang
 # Token device Fonnte (https://md.fonnte.com -> Device -> Token)
-FONNTE_TOKEN=
+FONNTE_TOKEN=qXcPd71zz7BRnpAc9zNv
 # URL frontend (pisahkan koma jika lebih dari satu), tanpa slash di akhir
 BASE_URL=http://localhost:3000
